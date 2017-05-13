@@ -1,0 +1,12 @@
+.btn {
+  color: #fff;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  font-size: 14px;
+  background-color: green;
+  padding: 5px;
+  display: inline-flex;
+  align-items: center;
+  user-select: none;
+  cursor: pointer;
+}

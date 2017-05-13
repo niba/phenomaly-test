@@ -1,0 +1,86 @@
+exports[`test check buzz 1`] = `
+<div>
+  <span
+    style={
+      Object {
+        "fontWeight": "bold",
+        "marginRight": "10px",
+      }
+    }>
+     
+    <span
+      className="blue">
+      Buzz
+    </span>
+     
+  </span>
+  <div
+    className="btn"
+    onClick={[Function]}
+    style={undefined}>
+    <span>
+       
+      increment
+       
+    </span>
+  </div>
+</div>
+`;
+
+exports[`test check fizz 1`] = `
+<div>
+  <span
+    style={
+      Object {
+        "fontWeight": "bold",
+        "marginRight": "10px",
+      }
+    }>
+     
+    <span
+      className="yellow">
+      Fizz
+    </span>
+     
+  </span>
+  <div
+    className="btn"
+    onClick={[Function]}
+    style={undefined}>
+    <span>
+       
+      increment
+       
+    </span>
+  </div>
+</div>
+`;
+
+exports[`test check fizz buzz 1`] = `
+<div>
+  <span
+    style={
+      Object {
+        "fontWeight": "bold",
+        "marginRight": "10px",
+      }
+    }>
+     
+    <span
+      className="green">
+      FizzBuzz
+    </span>
+     
+  </span>
+  <div
+    className="btn"
+    onClick={[Function]}
+    style={undefined}>
+    <span>
+       
+      increment
+       
+    </span>
+  </div>
+</div>
+`;
